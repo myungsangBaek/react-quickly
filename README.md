@@ -6,11 +6,11 @@ React의 이해도를 높이고 동작과정을 깊게 학습하고자 '리액�
 
 - [Intro](#intro)
 - [Chapter1](#chapter1)
-  - [React란 무엇인가?](#react란 무엇인가?)
-  - [React가 해결할 수 있는 문제](#react가 해결할 수 있는 문제)
-  - [React의 장점](#react의 장점)
-  - [React의 단점](#react의 단점)
-  - [웹 애플리케이션에 React 적용하기](#웹 애플리케이션에 React 적용하기)
+  - React란 무엇인가?
+  - React가 해결할 수 있는 문제
+  - React의 장점
+  - React의 단점
+  - 웹 애플리케이션에 React 적용하기
 
 ## Intro
 
